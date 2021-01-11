@@ -35,6 +35,10 @@ Full time, Internship 6 months
 - Azure IoT Hub provides a cloud-hosted solution back end to connect virtually any device. 
     - Extend your solution from the cloud to the edge with per-device authentication, built-in device management and scaled provisioning.
 
+#### Azure IoT Hub, Azure IoT Central
+
+![Azure IoT Hub, Azure IoT Central](https://github.com/anindameister/IOT-PLATFORM-ENGINEER-TRAINEE/blob/main/snaps/4.PNG)
+
 
 - You have strong technical knowledge in C# development, and/or JS Node.
 
