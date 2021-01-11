@@ -105,8 +105,14 @@ No
 - The main function of the mobile phone app is to collect BLE data from medical devices and report it to IoT Central. 
 - The app also guides patients through device setup and allows them to view their personal medical data. 
 - Other solutions could use a tablet gateway or a static gateway in a hospital room. 
+#### static gateway
+    - Static routes are for traffic that must not, or should not, go through the default gateway. 
+
 - A sample open source mobile app is available for Android and iOS, which you can use as a starting point for developing your app. 
 - For more information, see the IoT <a href="https://docs.microsoft.com/fr-fr/samples/iot-for-all/iotc-cpm-sample/iotc-cpm-sample/">Central continuous patient monitoring mobile app </a>.
+
+![gateway](https://github.com/anindameister/IOT-PLATFORM-ENGINEER-TRAINEE/blob/main/snaps/5.PNG)
+
 
 ### Export to Azure API for FHIR®
 - Azure IoT Central is HIPAA Compliant and HITRUST® Certified. 
@@ -138,4 +144,4 @@ No
 # http://youtube.com/watch?v=xxv0b1DHmU4
 
 # questions
-1. Cell Phone Gateway:-Other solutions could use a tablet gateway or a static gateway in a hospital room. 
+1. Cell Phone Gateway:-Other solutions could use a tablet gateway in a hospital room. 
