@@ -18,6 +18,9 @@ Full time, Internship 6 months
 - you will integrate the innovation team dedicated to the development of an IoT solution
 - and will be under the responsibility of a Project Manager Engineer.
 
+#### IoT solutions
+IoT solutions have helped in connecting devices, managing tasks, analyzing opportunities, and transferring information in a secure fashion.
+
 - The objective of the internship will be to participate in the implementation of an IoT platform 
 - to manage connected objects on Microsoft Azure.
 
