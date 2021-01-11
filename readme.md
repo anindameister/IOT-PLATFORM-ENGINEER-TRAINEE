@@ -133,15 +133,19 @@ No
 ### Following steps
 - The next suggested step is to Find out <a href="https://docs.microsoft.com/fr-fr/azure/iot-central/healthcare/tutorial-continuous-patient-monitoring">how to deploy a continuous patient monitoring application template </a>.
 
-
-
-
-
-
-
-
-
 # http://youtube.com/watch?v=xxv0b1DHmU4
+
+
+
+
+
 
 # questions
 1. Cell Phone Gateway:-Other solutions could use a tablet gateway in a hospital room. 
+2. Js or C# or both
+3. when do we have an interview with manager?
+4. how do we communicate with manager without English? Am still learning French
+5. I need a final answer by Thursday, endOfDay, because I have to sign contract on Friday, buy tickets to Paris and join on Monday.
+6. When can I join?
+7. Is there a permanent position?
+8. Do I get a CDI, after this internship?
