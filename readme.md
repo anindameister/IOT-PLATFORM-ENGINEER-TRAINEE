@@ -24,13 +24,17 @@ Full time, Internship 6 months
 - You will have as main missions
 
 - Elaboration of the architecture of the IoT platform
-- Development of a **PoC** based on Azure IoT Central and/or IoT Hub
+- Development of a **PoC-Proof of concept** based on Azure IoT Central and/or IoT Hub
 - Integration with the entire IoT system
 # REQUIRED PROFILE
 
 - In your last year of studies Bac +5 (engineering school or university type), you are looking for a 6-month internship and have a good knowledge in the development of an IoT platform to manage connected objects on the Cloud.
 
 - You are interested in Microsoft Azure IoT technologies (Azure IoT Hub, Azure IoT Central).
+- Azure IoT Central is a fully managed global IoT SaaS (software-as-a-service) solution that makes it easy to connect, monitor, and manage your IoT assets at scale.
+- Azure IoT Hub provides a cloud-hosted solution back end to connect virtually any device. 
+    - Extend your solution from the cloud to the edge with per-device authentication, built-in device management and scaled provisioning.
+
 
 - You have strong technical knowledge in C# development, and/or JS Node.
 
@@ -127,5 +131,4 @@ No
 # http://youtube.com/watch?v=xxv0b1DHmU4
 
 # questions
-1. DESCRIPTION OF THE OFFER:-Development of a **PoC** based on Azure IoT Central and/or IoT Hub
-2. Cell Phone Gateway:-Other solutions could use a tablet gateway or a static gateway in a hospital room. 
+1. Cell Phone Gateway:-Other solutions could use a tablet gateway or a static gateway in a hospital room. 
